@@ -32,3 +32,23 @@ To set up and run the application locally, follow these instructions:
 
    ```bash
    git clone https://github.com/your-username/Mini-Booking-System-for-Meeting-Rooms_.git
+
+###Navigate to the project folder:
+
+cd Mini-Booking-System-for-Meeting-Rooms_
+
+Open the index.html file in your web browser to run the application locally.
+
+Usage
+Open the application in your web browser.
+
+Explore the available meeting rooms and time slots in the "Available Rooms" section.
+
+To book a room, click on a room in the "Available Rooms" section, choose a time slot, and click the "Book" button.
+
+Your booking will be displayed in the "Your Bookings" section.
+
+To edit or cancel a booking, click on the booking in the "Your Bookings" section and follow the prompts.
+
+The application will prevent double-booking and show alerts for conflicts.
+   
